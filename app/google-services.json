@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "880614826793",
+    "project_id": "internetbildirim-59380",
+    "storage_bucket": "internetbildirim-59380.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880614826793:android:a776ef346b2f6d2fe00d38",
+        "android_client_info": {
+          "package_name": "com.example.fbpushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880614826793-da35citfbvhcaif8d2aq5g72p4r53i28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwPvMyYeqwGGx_MxP-1ojUqoMG8eBsoVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880614826793-da35citfbvhcaif8d2aq5g72p4r53i28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880614826793:android:eed3b8446775ae30e00d38",
+        "android_client_info": {
+          "package_name": "com.example.firebasecalismasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880614826793-da35citfbvhcaif8d2aq5g72p4r53i28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwPvMyYeqwGGx_MxP-1ojUqoMG8eBsoVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880614826793-da35citfbvhcaif8d2aq5g72p4r53i28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
